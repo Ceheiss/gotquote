@@ -1,0 +1,49 @@
+body{
+  text-align: center;
+  background: linear-gradient(45deg, #c0392b
+,#8e44ad);
+  background-size: cover;
+  height: 100vh
+}
+
+.btn {
+  background: linear-gradient(45deg, #c0392b
+,#8e44ad);
+  margin: 8px;
+  text-decoration: none;
+  border: none;
+}
+
+
+.content{
+  display: block;
+  float: center;
+  background-color: white;
+  margin: auto;
+  border-radius: 10px;
+  padding: 20px 0;
+}
+
+h1{
+  color: white;
+  margin: 25px;
+  font-family: 'Caesar Dressing',       cursive;
+  font-size: 80px
+}
+
+.fa-twitter-square{
+ font-size: 30px;
+ color: #333;
+ display: inline-block;
+ float: center;
+}
+
+.glyphs{
+  color: white;
+}
+
+#foot{
+  color: #eee;
+  margin-top: 10px;
+  font-size: 13px;
+}
